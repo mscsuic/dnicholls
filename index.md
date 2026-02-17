@@ -1,5 +1,5 @@
 ---
-title: Homepage of Faculty Member
+title: Homepage of David Nicholls
 ---
 
 Welcome to my site.
